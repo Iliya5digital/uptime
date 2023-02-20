@@ -42,7 +42,7 @@ sites:
   - name: wapinet
     url: https://wapinet.ru
   - name: wallpaperaccess
-    url: https://wallpaperaccess.com
+    url: https://wallpaperaccess.com/
   - name: vpngate
     url: https://www.vpngate.net
   - name: ugonanet
@@ -50,13 +50,13 @@ sites:
   - name: text-host
     url: http://text-host.ru
   - name: statonline
-    url: https://statonline.ru
+    url: https://statonline.ru/
   - name: spaces
     url: https://spcs.mobi
   - name: shopby
     url: https://shop.by
   - name: rutracker
-    url: http://rutracker.org
+    url: https://rutracker.org
   - name: rutor
     url: http://rutor.info
   - name: reg
@@ -110,7 +110,7 @@ sites:
   - name: anonfiles
     url: https://anonfiles.com
   - name: amd shop
-    url: https://www.amd.by
+    url: https://www.amd.by/
   - name: adguard
     url: https://adguard.com
   - name: 5digital
