@@ -29,6 +29,98 @@ sites:
     url: https://www.knowyourmobile.com/
   - name: ohrana UA - охранные системы
     url: https://ohrana.ua/
+  - name: zaberem
+    url: https://zaberem.by
+  - name: Xiaomi
+    url: https://mi.com
+  - name: wplovers
+    url: https://wplovers.pw
+  - name: WINITPRO
+    url: https://winitpro.ru
+  - name: wdfiles
+    url: https://wdfiles.ru
+  - name: wapinet
+    url: https://wapinet.ru
+  - name: wallpaperaccess
+    url: https://wallpaperaccess.com
+  - name: vpngate
+    url: https://www.vpngate.net
+  - name: ugonanet
+    url: https://www.ugona.net
+  - name: text-host
+    url: http://text-host.ru
+  - name: statonline
+    url: https://statonline.ru
+  - name: spaces
+    url: https://spcs.mobi
+  - name: shopby
+    url: https://shop.by
+  - name: rutracker
+    url: http://rutracker.org
+  - name: rutor
+    url: http://rutor.info
+  - name: reg
+    url: https://www.reg.ru
+  - name: ram
+    url: https://ram.by
+  - name: prossd
+    url: https://prossd.ru
+  - name: prog-top
+    url: https://prog-top.net
+  - name: obmenvsem
+    url: https://obmenvsem.org
+  - name: notopening
+    url: https://notopening.com
+  - name: notebook31
+    url: https://notebook-31.ru
+  - name: mega
+    url: https://mega.nz
+  - name: mediafire
+    url: https://mediafire.com
+  - name: malwarewatch
+    url: https://malwarewatch.org
+  - name: mchost
+    url: https://mchost.ru
+  - name: kichkaz
+    url: https://kichkas.biz
+  - name:ipxe
+    url: https://ipxe.org
+  - name: imgdb
+    url: https://imgdb.net
+  - name: iliyabylich04
+    url: https://iliyabylich04.hstn.me
+  - name: HYPERPC
+    url: https://hyperpc.ru
+  - name: hostfly
+    url: https://www.hostfly.by
+  - name: hosterby
+    url: https://hoster.by
+  - name: helpwifi
+    url: https://help-wifi.com
+  - name: fex
+    url: https://fex.net
+  - name: evozi
+    url: https://evozi.com
+  - name: E2
+    url: https://e2.by
+  - name: domaintools
+    url: https://www.domaintools.com
+  - name: DataPro
+    url: https://datapro.ru
+  - name: anonfiles
+    url: https://anonfiles.com
+  - name: amd shop
+    url: https://www.amd.by
+  - name: adguard
+    url: https://adguard.com
+  - name: 5digital
+    url: https://5digital.by
+  - name: 4shared
+    url: https://4shared.com
+  - name: 4pda
+    url: https://4pda.to
+  - name: 4pc
+    url: https://www.4pc.by
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
