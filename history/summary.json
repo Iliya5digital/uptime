@@ -239,18 +239,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/zaberem.by.ico",
     "slug": "zaberem",
     "status": "up",
-    "uptime": "62.07%",
-    "uptimeDay": "62.07%",
-    "uptimeWeek": "62.07%",
-    "uptimeMonth": "62.07%",
-    "uptimeYear": "62.07%",
+    "uptime": "47.96%",
+    "uptimeDay": "47.96%",
+    "uptimeWeek": "47.96%",
+    "uptimeMonth": "47.96%",
+    "uptimeYear": "47.96%",
     "time": 1209,
     "timeDay": 1209,
     "timeWeek": 1209,
     "timeMonth": 1209,
     "timeYear": 1209,
     "dailyMinutesDown": {
-      "2023-02-20": 7
+      "2023-02-20": 13
     }
   },
   {
@@ -345,22 +345,22 @@
   },
   {
     "name": "wallpaperaccess",
-    "url": "https://wallpaperaccess.com",
+    "url": "https://wallpaperaccess.com/",
     "icon": "https://icons.duckduckgo.com/ip3/wallpaperaccess.com.ico",
     "slug": "wallpaperaccess",
     "status": "down",
-    "uptime": "0.03%",
-    "uptimeDay": "0.03%",
-    "uptimeWeek": "0.03%",
-    "uptimeMonth": "0.03%",
-    "uptimeYear": "0.03%",
+    "uptime": "0.05%",
+    "uptimeDay": "0.05%",
+    "uptimeWeek": "0.05%",
+    "uptimeMonth": "0.05%",
+    "uptimeYear": "0.05%",
     "time": 85,
     "timeDay": 85,
     "timeWeek": 85,
     "timeMonth": 85,
     "timeYear": 85,
     "dailyMinutesDown": {
-      "2023-02-20": 19
+      "2023-02-20": 24
     }
   },
   {
@@ -419,22 +419,22 @@
   },
   {
     "name": "statonline",
-    "url": "https://statonline.ru",
+    "url": "https://statonline.ru/",
     "icon": "https://icons.duckduckgo.com/ip3/statonline.ru.ico",
     "slug": "statonline",
     "status": "down",
-    "uptime": "0.38%",
-    "uptimeDay": "0.38%",
-    "uptimeWeek": "0.38%",
-    "uptimeMonth": "0.38%",
-    "uptimeYear": "0.38%",
+    "uptime": "0.25%",
+    "uptimeDay": "0.25%",
+    "uptimeWeek": "0.25%",
+    "uptimeMonth": "0.25%",
+    "uptimeYear": "0.25%",
     "time": 1226,
     "timeDay": 1226,
     "timeWeek": 1226,
     "timeMonth": 1226,
     "timeYear": 1226,
     "dailyMinutesDown": {
-      "2023-02-20": 18
+      "2023-02-20": 24
     }
   },
   {
@@ -475,22 +475,22 @@
   },
   {
     "name": "rutracker",
-    "url": "http://rutracker.org",
+    "url": "https://rutracker.org",
     "icon": "https://icons.duckduckgo.com/ip3/rutracker.org.ico",
     "slug": "rutracker",
     "status": "down",
-    "uptime": "0.04%",
-    "uptimeDay": "0.04%",
-    "uptimeWeek": "0.04%",
-    "uptimeMonth": "0.04%",
-    "uptimeYear": "0.04%",
+    "uptime": "0.03%",
+    "uptimeDay": "0.03%",
+    "uptimeWeek": "0.03%",
+    "uptimeMonth": "0.03%",
+    "uptimeYear": "0.03%",
     "time": 149,
     "timeDay": 149,
     "timeWeek": 149,
     "timeMonth": 149,
     "timeYear": 149,
     "dailyMinutesDown": {
-      "2023-02-20": 18
+      "2023-02-20": 24
     }
   },
   {
@@ -516,19 +516,19 @@
     "url": "https://www.reg.ru",
     "icon": "https://icons.duckduckgo.com/ip3/www.reg.ru.ico",
     "slug": "reg",
-    "status": "down",
-    "uptime": "92.63%",
-    "uptimeDay": "92.63%",
-    "uptimeWeek": "92.63%",
-    "uptimeMonth": "92.63%",
-    "uptimeYear": "92.63%",
-    "time": 890,
-    "timeDay": 890,
-    "timeWeek": 890,
-    "timeMonth": 890,
-    "timeYear": 890,
+    "status": "up",
+    "uptime": "76.17%",
+    "uptimeDay": "76.17%",
+    "uptimeWeek": "76.17%",
+    "uptimeMonth": "76.17%",
+    "uptimeYear": "76.17%",
+    "time": 918,
+    "timeDay": 918,
+    "timeWeek": 918,
+    "timeMonth": 918,
+    "timeYear": 918,
     "dailyMinutesDown": {
-      "2023-02-20": 1
+      "2023-02-20": 6
     }
   },
   {
@@ -965,22 +965,22 @@
   },
   {
     "name": "amd shop",
-    "url": "https://www.amd.by",
+    "url": "https://www.amd.by/",
     "icon": "https://icons.duckduckgo.com/ip3/www.amd.by.ico",
     "slug": "amd-shop",
     "status": "down",
-    "uptime": "0.12%",
-    "uptimeDay": "0.12%",
-    "uptimeWeek": "0.12%",
-    "uptimeMonth": "0.12%",
-    "uptimeYear": "0.12%",
+    "uptime": "0.09%",
+    "uptimeDay": "0.09%",
+    "uptimeWeek": "0.09%",
+    "uptimeMonth": "0.09%",
+    "uptimeYear": "0.09%",
     "time": 145,
     "timeDay": 145,
     "timeWeek": 145,
     "timeMonth": 145,
     "timeYear": 145,
     "dailyMinutesDown": {
-      "2023-02-20": 17
+      "2023-02-20": 23
     }
   },
   {
