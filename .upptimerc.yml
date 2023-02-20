@@ -83,7 +83,7 @@ sites:
     url: https://mchost.ru
   - name: kichkaz
     url: https://kichkas.biz
-  - name:ipxe
+  - name: ipxe
     url: https://ipxe.org
   - name: imgdb
     url: https://imgdb.net
