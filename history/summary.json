@@ -238,19 +238,19 @@
     "url": "https://zaberem.by",
     "icon": "https://icons.duckduckgo.com/ip3/zaberem.by.ico",
     "slug": "zaberem",
-    "status": "down",
-    "uptime": "82.65%",
-    "uptimeDay": "82.65%",
-    "uptimeWeek": "82.65%",
-    "uptimeMonth": "82.65%",
-    "uptimeYear": "82.65%",
-    "time": 1247,
-    "timeDay": 1247,
-    "timeWeek": 1247,
-    "timeMonth": 1247,
-    "timeYear": 1247,
+    "status": "up",
+    "uptime": "76.90%",
+    "uptimeDay": "76.90%",
+    "uptimeWeek": "76.90%",
+    "uptimeMonth": "76.90%",
+    "uptimeYear": "76.90%",
+    "time": 1225,
+    "timeDay": 1225,
+    "timeWeek": 1225,
+    "timeMonth": 1225,
+    "timeYear": 1225,
     "dailyMinutesDown": {
-      "2023-02-20": 56
+      "2023-02-20": 81
     }
   },
   {
@@ -349,18 +349,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/wallpaperaccess.com.ico",
     "slug": "wallpaperaccess",
     "status": "down",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
+    "uptime": "0.01%",
+    "uptimeDay": "0.01%",
+    "uptimeWeek": "0.01%",
+    "uptimeMonth": "0.01%",
+    "uptimeYear": "0.01%",
     "time": 85,
     "timeDay": 85,
     "timeWeek": 85,
     "timeMonth": 85,
     "timeYear": 85,
     "dailyMinutesDown": {
-      "2023-02-20": 321
+      "2023-02-20": 347
     }
   },
   {
@@ -434,7 +434,7 @@
     "timeMonth": 1326,
     "timeYear": 1326,
     "dailyMinutesDown": {
-      "2023-02-20": 321
+      "2023-02-20": 347
     }
   },
   {
@@ -490,7 +490,7 @@
     "timeMonth": 94,
     "timeYear": 94,
     "dailyMinutesDown": {
-      "2023-02-20": 321
+      "2023-02-20": 346
     }
   },
   {
@@ -517,18 +517,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.reg.ru.ico",
     "slug": "reg",
     "status": "down",
-    "uptime": "51.34%",
-    "uptimeDay": "51.34%",
-    "uptimeWeek": "51.34%",
-    "uptimeMonth": "51.34%",
-    "uptimeYear": "51.34%",
+    "uptime": "47.50%",
+    "uptimeDay": "47.50%",
+    "uptimeWeek": "47.50%",
+    "uptimeMonth": "47.50%",
+    "uptimeYear": "47.50%",
     "time": 967,
     "timeDay": 967,
     "timeWeek": 967,
     "timeMonth": 967,
     "timeYear": 967,
     "dailyMinutesDown": {
-      "2023-02-20": 156
+      "2023-02-20": 181
     }
   },
   {
@@ -591,18 +591,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/obmenvsem.org.ico",
     "slug": "obmenvsem",
     "status": "down",
-    "uptime": "94.87%",
-    "uptimeDay": "94.87%",
-    "uptimeWeek": "94.87%",
-    "uptimeMonth": "94.87%",
-    "uptimeYear": "94.87%",
+    "uptime": "87.78%",
+    "uptimeDay": "87.78%",
+    "uptimeWeek": "87.78%",
+    "uptimeMonth": "87.78%",
+    "uptimeYear": "87.78%",
     "time": 784,
     "timeDay": 784,
     "timeWeek": 784,
     "timeMonth": 784,
     "timeYear": 784,
     "dailyMinutesDown": {
-      "2023-02-20": 16
+      "2023-02-20": 42
     }
   },
   {
@@ -971,18 +971,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.amd.by.ico",
     "slug": "amd-shop",
     "status": "down",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
+    "uptime": "0.01%",
+    "uptimeDay": "0.01%",
+    "uptimeWeek": "0.01%",
+    "uptimeMonth": "0.01%",
+    "uptimeYear": "0.01%",
     "time": 131,
     "timeDay": 131,
     "timeWeek": 131,
     "timeMonth": 131,
     "timeYear": 131,
     "dailyMinutesDown": {
-      "2023-02-20": 320
+      "2023-02-20": 345
     }
   },
   {
