@@ -87,8 +87,8 @@ sites:
     url: https://ipxe.org
   - name: imgdb
     url: https://imgdb.net
-  - name: iliyabylich04
-    url: https://iliyabylich04.hstn.me
+  - name: archive
+    url: https://archive.org
   - name: HYPERPC
     url: https://hyperpc.ru
   - name: hostfly
