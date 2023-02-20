@@ -19,6 +19,16 @@ sites:
     url: http://mybb.ru
   - name: 21vek
     url: https://21vek.by
+  - name: ISONCOM
+    url: https://isoncom.ru
+  - name: kunegin
+    url: http://kunegin.com
+  - name: directmusic
+    url: https://directmusic.me
+  - name: knowyourmobile
+    url: https://www.knowyourmobile.com/
+  - name: ohrana UA - охранные системы
+    url: https://ohrana.ua/
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
