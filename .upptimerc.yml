@@ -123,6 +123,8 @@ sites:
     url: https://www.4pc.by
   - name: dry
     url: https://dry.by/
+  - name: listoffreeware
+    url: https://listoffreeware.com/
 status-website:
   baseUrl: /uptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
