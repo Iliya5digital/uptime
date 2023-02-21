@@ -238,19 +238,19 @@
     "url": "https://zaberem.by",
     "icon": "https://icons.duckduckgo.com/ip3/zaberem.by.ico",
     "slug": "zaberem",
-    "status": "up",
-    "uptime": "73.30%",
-    "uptimeDay": "75.77%",
-    "uptimeWeek": "73.30%",
-    "uptimeMonth": "73.30%",
-    "uptimeYear": "73.30%",
+    "status": "down",
+    "uptime": "73.33%",
+    "uptimeDay": "75.67%",
+    "uptimeWeek": "73.33%",
+    "uptimeMonth": "73.33%",
+    "uptimeYear": "73.33%",
     "time": 1248,
     "timeDay": 1253,
     "timeWeek": 1248,
     "timeMonth": 1248,
     "timeYear": 1248,
     "dailyMinutesDown": {
-      "2023-02-21": 276,
+      "2023-02-21": 277,
       "2023-02-20": 128
     }
   },
@@ -361,7 +361,7 @@
     "timeMonth": 88,
     "timeYear": 88,
     "dailyMinutesDown": {
-      "2023-02-21": 704,
+      "2023-02-21": 710,
       "2023-02-20": 804
     }
   },
@@ -438,7 +438,7 @@
     "timeMonth": 1355,
     "timeYear": 1355,
     "dailyMinutesDown": {
-      "2023-02-21": 704,
+      "2023-02-21": 710,
       "2023-02-20": 804
     }
   },
@@ -495,7 +495,7 @@
     "timeMonth": 114,
     "timeYear": 114,
     "dailyMinutesDown": {
-      "2023-02-21": 704,
+      "2023-02-21": 710,
       "2023-02-20": 804
     }
   },
@@ -523,18 +523,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.reg.ru.ico",
     "slug": "reg",
     "status": "down",
-    "uptime": "34.89%",
-    "uptimeDay": "31.85%",
-    "uptimeWeek": "34.89%",
-    "uptimeMonth": "34.89%",
-    "uptimeYear": "34.89%",
+    "uptime": "34.73%",
+    "uptimeDay": "31.37%",
+    "uptimeWeek": "34.73%",
+    "uptimeMonth": "34.73%",
+    "uptimeYear": "34.73%",
     "time": 1035,
     "timeDay": 1064,
     "timeWeek": 1035,
     "timeMonth": 1035,
     "timeYear": 1035,
     "dailyMinutesDown": {
-      "2023-02-21": 438,
+      "2023-02-21": 445,
       "2023-02-20": 543
     }
   },
@@ -598,11 +598,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/obmenvsem.org.ico",
     "slug": "obmenvsem",
     "status": "up",
-    "uptime": "95.88%",
+    "uptime": "95.90%",
     "uptimeDay": "95.69%",
-    "uptimeWeek": "95.88%",
-    "uptimeMonth": "95.88%",
-    "uptimeYear": "95.88%",
+    "uptimeWeek": "95.90%",
+    "uptimeMonth": "95.90%",
+    "uptimeYear": "95.90%",
     "time": 835,
     "timeDay": 836,
     "timeWeek": 835,
@@ -989,7 +989,7 @@
     "timeMonth": 135,
     "timeYear": 135,
     "dailyMinutesDown": {
-      "2023-02-21": 704,
+      "2023-02-21": 711,
       "2023-02-20": 803
     }
   },
