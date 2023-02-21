@@ -238,19 +238,19 @@
     "url": "https://zaberem.by",
     "icon": "https://icons.duckduckgo.com/ip3/zaberem.by.ico",
     "slug": "zaberem",
-    "status": "down",
-    "uptime": "75.78%",
-    "uptimeDay": "75.78%",
-    "uptimeWeek": "75.78%",
-    "uptimeMonth": "75.78%",
-    "uptimeYear": "75.78%",
-    "time": 1245,
-    "timeDay": 1245,
-    "timeWeek": 1245,
-    "timeMonth": 1245,
-    "timeYear": 1245,
+    "status": "up",
+    "uptime": "75.07%",
+    "uptimeDay": "75.07%",
+    "uptimeWeek": "75.07%",
+    "uptimeMonth": "75.07%",
+    "uptimeYear": "75.07%",
+    "time": 1246,
+    "timeDay": 1246,
+    "timeWeek": 1246,
+    "timeMonth": 1246,
+    "timeYear": 1246,
     "dailyMinutesDown": {
-      "2023-02-21": 172,
+      "2023-02-21": 184,
       "2023-02-20": 128
     }
   },
@@ -361,7 +361,7 @@
     "timeMonth": 88,
     "timeYear": 88,
     "dailyMinutesDown": {
-      "2023-02-21": 429,
+      "2023-02-21": 443,
       "2023-02-20": 804
     }
   },
@@ -436,7 +436,7 @@
     "timeMonth": 1355,
     "timeYear": 1355,
     "dailyMinutesDown": {
-      "2023-02-21": 429,
+      "2023-02-21": 443,
       "2023-02-20": 804
     }
   },
@@ -493,7 +493,7 @@
     "timeMonth": 114,
     "timeYear": 114,
     "dailyMinutesDown": {
-      "2023-02-21": 429,
+      "2023-02-21": 443,
       "2023-02-20": 804
     }
   },
@@ -521,11 +521,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.reg.ru.ico",
     "slug": "reg",
     "status": "up",
-    "uptime": "33.06%",
-    "uptimeDay": "33.06%",
-    "uptimeWeek": "33.06%",
-    "uptimeMonth": "33.06%",
-    "uptimeYear": "33.06%",
+    "uptime": "33.79%",
+    "uptimeDay": "33.79%",
+    "uptimeWeek": "33.79%",
+    "uptimeMonth": "33.79%",
+    "uptimeYear": "33.79%",
     "time": 1051,
     "timeDay": 1051,
     "timeWeek": 1051,
@@ -596,11 +596,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/obmenvsem.org.ico",
     "slug": "obmenvsem",
     "status": "up",
-    "uptime": "94.96%",
-    "uptimeDay": "94.96%",
-    "uptimeWeek": "94.96%",
-    "uptimeMonth": "94.96%",
-    "uptimeYear": "94.96%",
+    "uptime": "95.02%",
+    "uptimeDay": "95.02%",
+    "uptimeWeek": "95.02%",
+    "uptimeMonth": "95.02%",
+    "uptimeYear": "95.02%",
     "time": 835,
     "timeDay": 835,
     "timeWeek": 835,
@@ -987,7 +987,7 @@
     "timeMonth": 135,
     "timeYear": 135,
     "dailyMinutesDown": {
-      "2023-02-21": 429,
+      "2023-02-21": 443,
       "2023-02-20": 803
     }
   },
@@ -1015,19 +1015,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/5digital.by.ico",
     "slug": "5digital",
     "status": "up",
-    "uptime": "99.11%",
-    "uptimeDay": "99.11%",
-    "uptimeWeek": "99.11%",
-    "uptimeMonth": "99.11%",
-    "uptimeYear": "99.11%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 4802,
     "timeDay": 4802,
     "timeWeek": 4802,
     "timeMonth": 4802,
     "timeYear": 4802,
-    "dailyMinutesDown": {
-      "2023-02-21": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "4shared",
