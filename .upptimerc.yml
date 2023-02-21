@@ -41,16 +41,12 @@ sites:
     url: https://wdfiles.ru
   - name: wapinet
     url: https://wapinet.ru
-  - name: wallpaperaccess
-    url: https://wallpaperaccess.com/
   - name: vpngate
     url: https://www.vpngate.net
   - name: ugonanet
     url: https://www.ugona.net
   - name: text-host
     url: http://text-host.ru
-  - name: statonline
-    url: https://statonline.ru/
   - name: spaces
     url: https://spcs.mobi
   - name: shopby
