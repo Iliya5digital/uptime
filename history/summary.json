@@ -239,11 +239,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/zaberem.by.ico",
     "slug": "zaberem",
     "status": "up",
-    "uptime": "76.00%",
-    "uptimeDay": "70.86%",
-    "uptimeWeek": "76.00%",
-    "uptimeMonth": "76.00%",
-    "uptimeYear": "76.00%",
+    "uptime": "76.06%",
+    "uptimeDay": "71.10%",
+    "uptimeWeek": "76.06%",
+    "uptimeMonth": "76.06%",
+    "uptimeYear": "76.06%",
     "time": 1266,
     "timeDay": 1270,
     "timeWeek": 1266,
@@ -453,7 +453,7 @@
     "timeMonth": 113,
     "timeYear": 113,
     "dailyMinutesDown": {
-      "2023-02-21": 1427,
+      "2023-02-21": 1432,
       "2023-02-20": 804
     }
   },
@@ -481,18 +481,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.reg.ru.ico",
     "slug": "reg",
     "status": "down",
-    "uptime": "37.20%",
+    "uptime": "37.11%",
     "uptimeDay": "39.88%",
-    "uptimeWeek": "37.20%",
-    "uptimeMonth": "37.20%",
-    "uptimeYear": "37.20%",
+    "uptimeWeek": "37.11%",
+    "uptimeMonth": "37.11%",
+    "uptimeYear": "37.11%",
     "time": 1392,
     "timeDay": 1655,
     "timeWeek": 1392,
     "timeMonth": 1392,
     "timeYear": 1392,
     "dailyMinutesDown": {
-      "2023-02-21": 857,
+      "2023-02-21": 863,
       "2023-02-20": 543
     }
   },
@@ -947,7 +947,7 @@
     "timeMonth": 137,
     "timeYear": 137,
     "dailyMinutesDown": {
-      "2023-02-21": 1427,
+      "2023-02-21": 1432,
       "2023-02-20": 803
     }
   },
@@ -1316,19 +1316,19 @@
     "url": "https://www.tadviser.ru",
     "icon": "https://icons.duckduckgo.com/ip3/www.tadviser.ru.ico",
     "slug": "tadviser",
-    "status": "down",
-    "uptime": "53.08%",
-    "uptimeDay": "53.08%",
-    "uptimeWeek": "53.08%",
-    "uptimeMonth": "53.08%",
-    "uptimeYear": "53.08%",
-    "time": 4136,
-    "timeDay": 4136,
-    "timeWeek": 4136,
-    "timeMonth": 4136,
-    "timeYear": 4136,
+    "status": "up",
+    "uptime": "52.85%",
+    "uptimeDay": "52.85%",
+    "uptimeWeek": "52.85%",
+    "uptimeMonth": "52.85%",
+    "uptimeYear": "52.85%",
+    "time": 4188,
+    "timeDay": 4188,
+    "timeWeek": 4188,
+    "timeMonth": 4188,
+    "timeYear": 4188,
     "dailyMinutesDown": {
-      "2023-02-21": 265
+      "2023-02-21": 269
     }
   },
   {
@@ -1672,7 +1672,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-02-21": 563
+      "2023-02-21": 568
     }
   },
   {
