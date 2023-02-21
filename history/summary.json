@@ -239,18 +239,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/zaberem.by.ico",
     "slug": "zaberem",
     "status": "down",
-    "uptime": "75.54%",
-    "uptimeDay": "70.59%",
-    "uptimeWeek": "75.54%",
-    "uptimeMonth": "75.54%",
-    "uptimeYear": "75.54%",
+    "uptime": "75.34%",
+    "uptimeDay": "70.20%",
+    "uptimeWeek": "75.34%",
+    "uptimeMonth": "75.34%",
+    "uptimeYear": "75.34%",
     "time": 1270,
     "timeDay": 1282,
     "timeWeek": 1270,
     "timeMonth": 1270,
     "timeYear": 1270,
     "dailyMinutesDown": {
-      "2023-02-21": 412,
+      "2023-02-21": 418,
       "2023-02-20": 128
     }
   },
@@ -453,7 +453,7 @@
     "timeMonth": 113,
     "timeYear": 113,
     "dailyMinutesDown": {
-      "2023-02-21": 1401,
+      "2023-02-21": 1407,
       "2023-02-20": 804
     }
   },
@@ -481,18 +481,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.reg.ru.ico",
     "slug": "reg",
     "status": "down",
-    "uptime": "37.63%",
+    "uptime": "37.54%",
     "uptimeDay": "39.88%",
-    "uptimeWeek": "37.63%",
-    "uptimeMonth": "37.63%",
-    "uptimeYear": "37.63%",
+    "uptimeWeek": "37.54%",
+    "uptimeMonth": "37.54%",
+    "uptimeYear": "37.54%",
     "time": 1392,
     "timeDay": 1655,
     "timeWeek": 1392,
     "timeMonth": 1392,
     "timeYear": 1392,
     "dailyMinutesDown": {
-      "2023-02-21": 831,
+      "2023-02-21": 837,
       "2023-02-20": 543
     }
   },
@@ -556,11 +556,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/obmenvsem.org.ico",
     "slug": "obmenvsem",
     "status": "up",
-    "uptime": "97.18%",
+    "uptime": "97.19%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "97.18%",
-    "uptimeMonth": "97.18%",
-    "uptimeYear": "97.18%",
+    "uptimeWeek": "97.19%",
+    "uptimeMonth": "97.19%",
+    "uptimeYear": "97.19%",
     "time": 862,
     "timeDay": 986,
     "timeWeek": 862,
@@ -947,7 +947,7 @@
     "timeMonth": 137,
     "timeYear": 137,
     "dailyMinutesDown": {
-      "2023-02-21": 1401,
+      "2023-02-21": 1407,
       "2023-02-20": 803
     }
   },
@@ -1316,19 +1316,19 @@
     "url": "https://www.tadviser.ru",
     "icon": "https://icons.duckduckgo.com/ip3/www.tadviser.ru.ico",
     "slug": "tadviser",
-    "status": "up",
-    "uptime": "51.19%",
-    "uptimeDay": "51.19%",
-    "uptimeWeek": "51.19%",
-    "uptimeMonth": "51.19%",
-    "uptimeYear": "51.19%",
+    "status": "down",
+    "uptime": "51.41%",
+    "uptimeDay": "51.41%",
+    "uptimeWeek": "51.41%",
+    "uptimeMonth": "51.41%",
+    "uptimeYear": "51.41%",
     "time": 4309,
     "timeDay": 4309,
     "timeWeek": 4309,
     "timeMonth": 4309,
     "timeYear": 4309,
     "dailyMinutesDown": {
-      "2023-02-21": 263
+      "2023-02-21": 264
     }
   },
   {
@@ -1445,19 +1445,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ipteamcloud.com.ico",
     "slug": "ipteamcloud",
     "status": "up",
-    "uptime": "98.10%",
-    "uptimeDay": "98.10%",
-    "uptimeWeek": "98.10%",
-    "uptimeMonth": "98.10%",
-    "uptimeYear": "98.10%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 3820,
     "timeDay": 3820,
     "timeWeek": 3820,
     "timeMonth": 3820,
     "timeYear": 3820,
-    "dailyMinutesDown": {
-      "2023-02-21": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "серверы видеонаблюдения videomax",
@@ -1483,19 +1481,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ipteam.com.ua.ico",
     "slug": "ipteam",
     "status": "up",
-    "uptime": "98.15%",
-    "uptimeDay": "98.15%",
-    "uptimeWeek": "98.15%",
-    "uptimeMonth": "98.15%",
-    "uptimeYear": "98.15%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 2363,
     "timeDay": 2363,
     "timeWeek": 2363,
     "timeMonth": 2363,
     "timeYear": 2363,
-    "dailyMinutesDown": {
-      "2023-02-21": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "evotor",
@@ -1676,7 +1672,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-02-21": 537
+      "2023-02-21": 543
     }
   },
   {
