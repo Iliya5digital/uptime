@@ -121,6 +121,82 @@ sites:
     url: https://dry.by/
   - name: listoffreeware
     url: https://listoffreeware.com/
+  - name: Windowsnotes
+    url: https://windowsnotes.ru
+  - name: Издательство «Открытые системы»
+    url: https://www.osp.ru
+  - name: форум xenforo
+    url: https://xenforo.info
+  - name: old-games
+    url: https://www.old-games.ru
+  - name: g-ek
+    url: https://g-ek.com
+  - name: simplight
+    url: https://simplight.ru
+  - name: s-terra
+    url: https://s-terra.ru
+  - name: networkguru
+    url: https://networkguru.ru
+  - name: Windows для системных администраторов
+    url: https://winitpro.ru
+  - name: школа Windows
+    url: https://windows-school.ru
+  - name: провайдеры Украины
+    url: https://local.com.ua
+  - name: smartphonus
+    url: https://smartphonus.com
+  - name: v-grade
+    url: http://www.v-grade.ru
+  - name: tadviser
+    url: https://www.tadviser.ru
+  - name: Web Creator — разработка сложных сайтов и веб-приложений, комплексный интернет-маркетинг
+    url: https://web-creator.ru
+  - name: itweek
+    url: https://www.itweek.ru
+  - name: losst
+    url: https://losst.pro
+  - name: baks
+    url: https://baks.dev
+  - name: setiwik
+    url: https://setiwik.ru
+  - name: usb31.ru
+    url: http://usb31.ru
+  - name: ipteamcloud
+    url: https://www.ipteamcloud.com
+  - name: серверы видеонаблюдения videomax
+    url: https://www.videomax.ru
+  - name: ipteam
+    url: https://www.ipteam.com.ua
+  - name: evotor
+    url: https://evotor.ru
+  - name: atol
+    url: https://www.atol.ru
+  - name: sigma
+    url: https://sigma.ru
+  - name: JavaScript
+    url: https://javascript.ru
+  - name: 1C-просто
+    url: https://1c-prosto.ru
+  - name: macroscoptrade
+    url: https://macroscoptrade.com
+  - name: macroscop
+    url: https://macroscop.com
+  - name: itkrama
+    url: https://itkrama.by
+  - name: presium
+    url: https://presium.pro
+  - name: awdee
+    url: https://awdee.ru
+  - name: oao-best
+    url: https://oao-bst.by
+  - name: уроки компа
+    url: https://yrokicompa.ru
+  - name: avant
+    url: https://avant.by
+  - name: tentebel
+    url: https://tentebel.by
+  - name: sergeistrelec
+    url: https://sergeistrelec.name
 status-website:
   baseUrl: /uptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
