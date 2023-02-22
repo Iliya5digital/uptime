@@ -239,18 +239,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/zaberem.by.ico",
     "slug": "zaberem",
     "status": "up",
-    "uptime": "77.02%",
-    "uptimeDay": "80.65%",
-    "uptimeWeek": "77.02%",
-    "uptimeMonth": "77.02%",
-    "uptimeYear": "77.02%",
+    "uptime": "77.55%",
+    "uptimeDay": "81.44%",
+    "uptimeWeek": "77.55%",
+    "uptimeMonth": "77.55%",
+    "uptimeYear": "77.55%",
     "time": 1262,
     "timeDay": 1286,
     "timeWeek": 1262,
     "timeMonth": 1262,
     "timeYear": 1262,
     "dailyMinutesDown": {
-      "2023-02-22": 146,
+      "2023-02-22": 135,
       "2023-02-21": 408,
       "2023-02-20": 128
     }
@@ -456,7 +456,7 @@
     "timeMonth": 113,
     "timeYear": 113,
     "dailyMinutesDown": {
-      "2023-02-22": 720,
+      "2023-02-22": 740,
       "2023-02-21": 1440,
       "2023-02-20": 804
     }
@@ -485,11 +485,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.reg.ru.ico",
     "slug": "reg",
     "status": "up",
-    "uptime": "36.55%",
-    "uptimeDay": "38.70%",
-    "uptimeWeek": "36.55%",
-    "uptimeMonth": "36.55%",
-    "uptimeYear": "36.55%",
+    "uptime": "36.98%",
+    "uptimeDay": "40.11%",
+    "uptimeWeek": "36.98%",
+    "uptimeMonth": "36.98%",
+    "uptimeYear": "36.98%",
     "time": 1370,
     "timeDay": 1927,
     "timeWeek": 1370,
@@ -561,11 +561,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/obmenvsem.org.ico",
     "slug": "obmenvsem",
     "status": "up",
-    "uptime": "97.91%",
+    "uptime": "97.92%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "97.91%",
-    "uptimeMonth": "97.91%",
-    "uptimeYear": "97.91%",
+    "uptimeWeek": "97.92%",
+    "uptimeMonth": "97.92%",
+    "uptimeYear": "97.92%",
     "time": 862,
     "timeDay": 1150,
     "timeWeek": 862,
@@ -952,7 +952,7 @@
     "timeMonth": 137,
     "timeYear": 137,
     "dailyMinutesDown": {
-      "2023-02-22": 720,
+      "2023-02-22": 741,
       "2023-02-21": 1440,
       "2023-02-20": 803
     }
@@ -1322,19 +1322,19 @@
     "url": "https://www.tadviser.ru",
     "icon": "https://icons.duckduckgo.com/ip3/www.tadviser.ru.ico",
     "slug": "tadviser",
-    "status": "up",
-    "uptime": "63.70%",
-    "uptimeDay": "63.70%",
-    "uptimeWeek": "63.70%",
-    "uptimeMonth": "63.70%",
-    "uptimeYear": "63.70%",
+    "status": "down",
+    "uptime": "64.13%",
+    "uptimeDay": "64.13%",
+    "uptimeWeek": "64.13%",
+    "uptimeMonth": "64.13%",
+    "uptimeYear": "64.13%",
     "time": 4490,
     "timeDay": 4490,
     "timeWeek": 4490,
     "timeMonth": 4490,
     "timeYear": 4490,
     "dailyMinutesDown": {
-      "2023-02-22": 208,
+      "2023-02-22": 210,
       "2023-02-21": 263
     }
   },
@@ -1679,7 +1679,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-02-22": 721,
+      "2023-02-22": 741,
       "2023-02-21": 576
     }
   },
