@@ -238,19 +238,19 @@
     "url": "https://zaberem.by",
     "icon": "https://icons.duckduckgo.com/ip3/zaberem.by.ico",
     "slug": "zaberem",
-    "status": "up",
-    "uptime": "78.58%",
-    "uptimeDay": "82.62%",
-    "uptimeWeek": "78.58%",
-    "uptimeMonth": "78.58%",
-    "uptimeYear": "78.58%",
+    "status": "down",
+    "uptime": "78.53%",
+    "uptimeDay": "82.38%",
+    "uptimeWeek": "78.53%",
+    "uptimeMonth": "78.53%",
+    "uptimeYear": "78.53%",
     "time": 1240,
     "timeDay": 1176,
     "timeWeek": 1240,
     "timeMonth": 1240,
     "timeYear": 1240,
     "dailyMinutesDown": {
-      "2023-02-22": 252,
+      "2023-02-22": 255,
       "2023-02-21": 408,
       "2023-02-20": 128
     }
@@ -456,7 +456,7 @@
     "timeMonth": 113,
     "timeYear": 113,
     "dailyMinutesDown": {
-      "2023-02-22": 1425,
+      "2023-02-22": 1432,
       "2023-02-21": 1440,
       "2023-02-20": 804
     }
@@ -485,18 +485,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.reg.ru.ico",
     "slug": "reg",
     "status": "down",
-    "uptime": "38.75%",
+    "uptime": "38.67%",
     "uptimeDay": "41.10%",
-    "uptimeWeek": "38.75%",
-    "uptimeMonth": "38.75%",
-    "uptimeYear": "38.75%",
+    "uptimeWeek": "38.67%",
+    "uptimeMonth": "38.67%",
+    "uptimeYear": "38.67%",
     "time": 1341,
     "timeDay": 1117,
     "timeWeek": 1341,
     "timeMonth": 1341,
     "timeYear": 1341,
     "dailyMinutesDown": {
-      "2023-02-22": 833,
+      "2023-02-22": 840,
       "2023-02-21": 870,
       "2023-02-20": 543
     }
@@ -952,7 +952,7 @@
     "timeMonth": 137,
     "timeYear": 137,
     "dailyMinutesDown": {
-      "2023-02-22": 1425,
+      "2023-02-22": 1432,
       "2023-02-21": 1440,
       "2023-02-20": 803
     }
@@ -1106,19 +1106,19 @@
     "url": "https://www.osp.ru",
     "icon": "https://icons.duckduckgo.com/ip3/www.osp.ru.ico",
     "slug": "izdatelstvo-otkrytye-sistemy",
-    "status": "down",
-    "uptime": "89.63%",
-    "uptimeDay": "85.58%",
-    "uptimeWeek": "89.63%",
-    "uptimeMonth": "89.63%",
-    "uptimeYear": "89.63%",
-    "time": 4102,
-    "timeDay": 4050,
-    "timeWeek": 4102,
-    "timeMonth": 4102,
-    "timeYear": 4102,
+    "status": "up",
+    "uptime": "89.43%",
+    "uptimeDay": "85.25%",
+    "uptimeWeek": "89.43%",
+    "uptimeMonth": "89.43%",
+    "uptimeYear": "89.43%",
+    "time": 4005,
+    "timeDay": 3945,
+    "timeWeek": 4005,
+    "timeMonth": 4005,
+    "timeYear": 4005,
     "dailyMinutesDown": {
-      "2023-02-22": 207
+      "2023-02-22": 212
     }
   },
   {
@@ -1325,18 +1325,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.tadviser.ru.ico",
     "slug": "tadviser",
     "status": "down",
-    "uptime": "58.01%",
-    "uptimeDay": "59.88%",
-    "uptimeWeek": "58.01%",
-    "uptimeMonth": "58.01%",
-    "uptimeYear": "58.01%",
+    "uptime": "57.80%",
+    "uptimeDay": "59.37%",
+    "uptimeWeek": "57.80%",
+    "uptimeMonth": "57.80%",
+    "uptimeYear": "57.80%",
     "time": 4405,
-    "timeDay": 4561,
+    "timeDay": 4542,
     "timeWeek": 4405,
     "timeMonth": 4405,
     "timeYear": 4405,
     "dailyMinutesDown": {
-      "2023-02-22": 579,
+      "2023-02-22": 586,
       "2023-02-21": 263
     }
   },
@@ -1681,7 +1681,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-02-22": 1425,
+      "2023-02-22": 1432,
       "2023-02-21": 576
     }
   },
