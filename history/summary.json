@@ -239,11 +239,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/zaberem.by.ico",
     "slug": "zaberem",
     "status": "up",
-    "uptime": "76.64%",
+    "uptime": "76.68%",
     "uptimeDay": "78.57%",
-    "uptimeWeek": "76.64%",
-    "uptimeMonth": "76.64%",
-    "uptimeYear": "76.64%",
+    "uptimeWeek": "76.68%",
+    "uptimeMonth": "76.68%",
+    "uptimeYear": "76.68%",
     "time": 1263,
     "timeDay": 1279,
     "timeWeek": 1263,
@@ -456,7 +456,7 @@
     "timeMonth": 113,
     "timeYear": 113,
     "dailyMinutesDown": {
-      "2023-02-22": 527,
+      "2023-02-22": 532,
       "2023-02-21": 1440,
       "2023-02-20": 804
     }
@@ -485,11 +485,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.reg.ru.ico",
     "slug": "reg",
     "status": "up",
-    "uptime": "32.11%",
-    "uptimeDay": "29.89%",
-    "uptimeWeek": "32.11%",
-    "uptimeMonth": "32.11%",
-    "uptimeYear": "32.11%",
+    "uptime": "32.24%",
+    "uptimeDay": "30.24%",
+    "uptimeWeek": "32.24%",
+    "uptimeMonth": "32.24%",
+    "uptimeYear": "32.24%",
     "time": 1370,
     "timeDay": 1816,
     "timeWeek": 1370,
@@ -952,7 +952,7 @@
     "timeMonth": 137,
     "timeYear": 137,
     "dailyMinutesDown": {
-      "2023-02-22": 527,
+      "2023-02-22": 532,
       "2023-02-21": 1440,
       "2023-02-20": 803
     }
@@ -1322,19 +1322,19 @@
     "url": "https://www.tadviser.ru",
     "icon": "https://icons.duckduckgo.com/ip3/www.tadviser.ru.ico",
     "slug": "tadviser",
-    "status": "down",
-    "uptime": "59.99%",
-    "uptimeDay": "59.99%",
-    "uptimeWeek": "59.99%",
-    "uptimeMonth": "59.99%",
-    "uptimeYear": "59.99%",
-    "time": 4500,
-    "timeDay": 4500,
-    "timeWeek": 4500,
-    "timeMonth": 4500,
-    "timeYear": 4500,
+    "status": "up",
+    "uptime": "59.84%",
+    "uptimeDay": "59.84%",
+    "uptimeWeek": "59.84%",
+    "uptimeMonth": "59.84%",
+    "uptimeYear": "59.84%",
+    "time": 4534,
+    "timeDay": 4534,
+    "timeWeek": 4534,
+    "timeMonth": 4534,
+    "timeYear": 4534,
     "dailyMinutesDown": {
-      "2023-02-22": 179,
+      "2023-02-22": 183,
       "2023-02-21": 263
     }
   },
@@ -1679,7 +1679,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-02-22": 527,
+      "2023-02-22": 532,
       "2023-02-21": 576
     }
   },
