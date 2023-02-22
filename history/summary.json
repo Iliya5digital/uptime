@@ -239,18 +239,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/zaberem.by.ico",
     "slug": "zaberem",
     "status": "up",
-    "uptime": "77.38%",
-    "uptimeDay": "81.33%",
-    "uptimeWeek": "77.38%",
-    "uptimeMonth": "77.38%",
-    "uptimeYear": "77.38%",
+    "uptime": "77.61%",
+    "uptimeDay": "81.70%",
+    "uptimeWeek": "77.61%",
+    "uptimeMonth": "77.61%",
+    "uptimeYear": "77.61%",
     "time": 1245,
     "timeDay": 1212,
     "timeWeek": 1245,
     "timeMonth": 1245,
     "timeYear": 1245,
     "dailyMinutesDown": {
-      "2023-02-22": 232,
+      "2023-02-22": 227,
       "2023-02-21": 408,
       "2023-02-20": 128
     }
@@ -351,11 +351,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.vpngate.net.ico",
     "slug": "vpngate",
     "status": "up",
-    "uptime": "99.54%",
+    "uptime": "99.55%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.54%",
-    "uptimeMonth": "99.54%",
-    "uptimeYear": "99.54%",
+    "uptimeWeek": "99.55%",
+    "uptimeMonth": "99.55%",
+    "uptimeYear": "99.55%",
     "time": 1838,
     "timeDay": 1795,
     "timeWeek": 1838,
@@ -456,7 +456,7 @@
     "timeMonth": 113,
     "timeYear": 113,
     "dailyMinutesDown": {
-      "2023-02-22": 1145,
+      "2023-02-22": 1155,
       "2023-02-21": 1440,
       "2023-02-20": 804
     }
@@ -485,18 +485,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.reg.ru.ico",
     "slug": "reg",
     "status": "down",
-    "uptime": "40.12%",
-    "uptimeDay": "46.78%",
-    "uptimeWeek": "40.12%",
-    "uptimeMonth": "40.12%",
-    "uptimeYear": "40.12%",
+    "uptime": "40.00%",
+    "uptimeDay": "46.08%",
+    "uptimeWeek": "40.00%",
+    "uptimeMonth": "40.00%",
+    "uptimeYear": "40.00%",
     "time": 1354,
     "timeDay": 1166,
     "timeWeek": 1354,
     "timeMonth": 1354,
     "timeYear": 1354,
     "dailyMinutesDown": {
-      "2023-02-22": 615,
+      "2023-02-22": 625,
       "2023-02-21": 870,
       "2023-02-20": 543
     }
@@ -542,19 +542,19 @@
     "url": "https://prog-top.net",
     "icon": "https://icons.duckduckgo.com/ip3/prog-top.net.ico",
     "slug": "prog-top",
-    "status": "down",
-    "uptime": "99.93%",
-    "uptimeDay": "99.84%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.93%",
-    "time": 4358,
-    "timeDay": 4522,
-    "timeWeek": 4358,
-    "timeMonth": 4358,
-    "timeYear": 4358,
+    "status": "up",
+    "uptime": "99.72%",
+    "uptimeDay": "99.34%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.72%",
+    "uptimeYear": "99.72%",
+    "time": 4381,
+    "timeDay": 4961,
+    "timeWeek": 4381,
+    "timeMonth": 4381,
+    "timeYear": 4381,
     "dailyMinutesDown": {
-      "2023-02-22": 2
+      "2023-02-22": 10
     }
   },
   {
@@ -954,7 +954,7 @@
     "timeMonth": 137,
     "timeYear": 137,
     "dailyMinutesDown": {
-      "2023-02-22": 1145,
+      "2023-02-22": 1155,
       "2023-02-21": 1440,
       "2023-02-20": 803
     }
@@ -1109,18 +1109,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.osp.ru.ico",
     "slug": "izdatelstvo-otkrytye-sistemy",
     "status": "down",
-    "uptime": "95.10%",
-    "uptimeDay": "94.14%",
-    "uptimeWeek": "95.10%",
-    "uptimeMonth": "95.10%",
-    "uptimeYear": "95.10%",
+    "uptime": "94.55%",
+    "uptimeDay": "93.44%",
+    "uptimeWeek": "94.55%",
+    "uptimeMonth": "94.55%",
+    "uptimeYear": "94.55%",
     "time": 4251,
     "timeDay": 4400,
     "timeWeek": 4251,
     "timeMonth": 4251,
     "timeYear": 4251,
     "dailyMinutesDown": {
-      "2023-02-22": 85
+      "2023-02-22": 95
     }
   },
   {
@@ -1327,11 +1327,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.tadviser.ru.ico",
     "slug": "tadviser",
     "status": "up",
-    "uptime": "57.94%",
-    "uptimeDay": "59.69%",
-    "uptimeWeek": "57.94%",
-    "uptimeMonth": "57.94%",
-    "uptimeYear": "57.94%",
+    "uptime": "58.18%",
+    "uptimeDay": "60.40%",
+    "uptimeWeek": "58.18%",
+    "uptimeMonth": "58.18%",
+    "uptimeYear": "58.18%",
     "time": 4441,
     "timeDay": 4472,
     "timeWeek": 4441,
@@ -1683,7 +1683,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-02-22": 1145,
+      "2023-02-22": 1156,
       "2023-02-21": 576
     }
   },
