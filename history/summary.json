@@ -239,18 +239,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/zaberem.by.ico",
     "slug": "zaberem",
     "status": "down",
-    "uptime": "77.72%",
-    "uptimeDay": "82.07%",
-    "uptimeWeek": "77.72%",
-    "uptimeMonth": "77.72%",
-    "uptimeYear": "77.72%",
+    "uptime": "77.46%",
+    "uptimeDay": "81.82%",
+    "uptimeWeek": "77.46%",
+    "uptimeMonth": "77.46%",
+    "uptimeYear": "77.46%",
     "time": 1248,
-    "timeDay": 1226,
+    "timeDay": 1222,
     "timeWeek": 1248,
     "timeMonth": 1248,
     "timeYear": 1248,
     "dailyMinutesDown": {
-      "2023-02-22": 214,
+      "2023-02-22": 225,
       "2023-02-21": 408,
       "2023-02-20": 128
     }
@@ -456,7 +456,7 @@
     "timeMonth": 113,
     "timeYear": 113,
     "dailyMinutesDown": {
-      "2023-02-22": 1115,
+      "2023-02-22": 1126,
       "2023-02-21": 1440,
       "2023-02-20": 804
     }
@@ -485,18 +485,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.reg.ru.ico",
     "slug": "reg",
     "status": "down",
-    "uptime": "40.48%",
-    "uptimeDay": "48.90%",
-    "uptimeWeek": "40.48%",
-    "uptimeMonth": "40.48%",
-    "uptimeYear": "40.48%",
+    "uptime": "40.34%",
+    "uptimeDay": "48.12%",
+    "uptimeWeek": "40.34%",
+    "uptimeMonth": "40.34%",
+    "uptimeYear": "40.34%",
     "time": 1354,
     "timeDay": 1166,
     "timeWeek": 1354,
     "timeMonth": 1354,
     "timeYear": 1354,
     "dailyMinutesDown": {
-      "2023-02-22": 585,
+      "2023-02-22": 596,
       "2023-02-21": 870,
       "2023-02-20": 543
     }
@@ -561,11 +561,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/obmenvsem.org.ico",
     "slug": "obmenvsem",
     "status": "up",
-    "uptime": "98.15%",
+    "uptime": "98.16%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.15%",
-    "uptimeMonth": "98.15%",
-    "uptimeYear": "98.15%",
+    "uptimeWeek": "98.16%",
+    "uptimeMonth": "98.16%",
+    "uptimeYear": "98.16%",
     "time": 862,
     "timeDay": 694,
     "timeWeek": 862,
@@ -952,7 +952,7 @@
     "timeMonth": 137,
     "timeYear": 137,
     "dailyMinutesDown": {
-      "2023-02-22": 1115,
+      "2023-02-22": 1126,
       "2023-02-21": 1440,
       "2023-02-20": 803
     }
@@ -980,19 +980,19 @@
     "url": "https://5digital.by",
     "icon": "https://icons.duckduckgo.com/ip3/5digital.by.ico",
     "slug": "5digital",
-    "status": "down",
-    "uptime": "99.91%",
-    "uptimeDay": "99.80%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.91%",
-    "time": 4827,
-    "timeDay": 5372,
-    "timeWeek": 4827,
-    "timeMonth": 4827,
-    "timeYear": 4827,
+    "status": "up",
+    "uptime": "99.68%",
+    "uptimeDay": "99.25%",
+    "uptimeWeek": "99.68%",
+    "uptimeMonth": "99.68%",
+    "uptimeYear": "99.68%",
+    "time": 4839,
+    "timeDay": 5387,
+    "timeWeek": 4839,
+    "timeMonth": 4839,
+    "timeYear": 4839,
     "dailyMinutesDown": {
-      "2023-02-22": 3
+      "2023-02-22": 11
     }
   },
   {
@@ -1108,19 +1108,19 @@
     "url": "https://www.osp.ru",
     "icon": "https://icons.duckduckgo.com/ip3/www.osp.ru.ico",
     "slug": "izdatelstvo-otkrytye-sistemy",
-    "status": "up",
-    "uptime": "95.12%",
-    "uptimeDay": "94.26%",
-    "uptimeWeek": "95.12%",
-    "uptimeMonth": "95.12%",
-    "uptimeYear": "95.12%",
+    "status": "down",
+    "uptime": "94.99%",
+    "uptimeDay": "94.08%",
+    "uptimeWeek": "94.99%",
+    "uptimeMonth": "94.99%",
+    "uptimeYear": "94.99%",
     "time": 4814,
     "timeDay": 5058,
     "timeWeek": 4814,
     "timeMonth": 4814,
     "timeYear": 4814,
     "dailyMinutesDown": {
-      "2023-02-22": 83
+      "2023-02-22": 86
     }
   },
   {
@@ -1326,19 +1326,19 @@
     "url": "https://www.tadviser.ru",
     "icon": "https://icons.duckduckgo.com/ip3/www.tadviser.ru.ico",
     "slug": "tadviser",
-    "status": "up",
-    "uptime": "57.18%",
-    "uptimeDay": "58.02%",
-    "uptimeWeek": "57.18%",
-    "uptimeMonth": "57.18%",
-    "uptimeYear": "57.18%",
+    "status": "down",
+    "uptime": "57.33%",
+    "uptimeDay": "58.48%",
+    "uptimeWeek": "57.33%",
+    "uptimeMonth": "57.33%",
+    "uptimeYear": "57.33%",
     "time": 4417,
-    "timeDay": 4473,
+    "timeDay": 4444,
     "timeWeek": 4417,
     "timeMonth": 4417,
     "timeYear": 4417,
     "dailyMinutesDown": {
-      "2023-02-22": 463,
+      "2023-02-22": 465,
       "2023-02-21": 263
     }
   },
@@ -1635,19 +1635,19 @@
     "url": "https://itkrama.by",
     "icon": "https://icons.duckduckgo.com/ip3/itkrama.by.ico",
     "slug": "itkrama",
-    "status": "down",
-    "uptime": "99.89%",
-    "uptimeDay": "99.87%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.89%",
-    "uptimeYear": "99.89%",
-    "time": 5975,
-    "timeDay": 5847,
-    "timeWeek": 5975,
-    "timeMonth": 5975,
-    "timeYear": 5975,
+    "status": "up",
+    "uptime": "99.33%",
+    "uptimeDay": "99.21%",
+    "uptimeWeek": "99.33%",
+    "uptimeMonth": "99.33%",
+    "uptimeYear": "99.33%",
+    "time": 5910,
+    "timeDay": 5765,
+    "timeWeek": 5910,
+    "timeMonth": 5910,
+    "timeYear": 5910,
     "dailyMinutesDown": {
-      "2023-02-22": 2
+      "2023-02-22": 11
     }
   },
   {
@@ -1685,7 +1685,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-02-22": 1115,
+      "2023-02-22": 1126,
       "2023-02-21": 576
     }
   },
@@ -1748,19 +1748,19 @@
     "url": "https://tentebel.by",
     "icon": "https://icons.duckduckgo.com/ip3/tentebel.by.ico",
     "slug": "tentebel",
-    "status": "down",
-    "uptime": "99.94%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.94%",
-    "time": 4703,
-    "timeDay": 5214,
-    "timeWeek": 4703,
-    "timeMonth": 4703,
-    "timeYear": 4703,
+    "status": "up",
+    "uptime": "99.34%",
+    "uptimeDay": "99.23%",
+    "uptimeWeek": "99.34%",
+    "uptimeMonth": "99.34%",
+    "uptimeYear": "99.34%",
+    "time": 4790,
+    "timeDay": 5239,
+    "timeWeek": 4790,
+    "timeMonth": 4790,
+    "timeYear": 4790,
     "dailyMinutesDown": {
-      "2023-02-22": 1
+      "2023-02-22": 11
     }
   },
   {
